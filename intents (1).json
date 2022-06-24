@@ -1,0 +1,83 @@
+{
+  "intents": [
+    {
+      "tag": "halo",
+      "patterns": [
+        "Halo",
+        "Hei",
+        "Bagaimana kabarmu",
+        "Selamat siang"
+      ],
+      "responses": [
+        "Hei :-)",
+        "Halo, terima kasih telah berkunjung",
+        "Hai disana, apa yang dapat saya bantu?",
+        "Hai disana, bagaimana saya dapat membantu?"
+      ]
+    },
+    {
+      "tag": "selamat jalan",
+      "patterns": [
+        "Dada",
+        "Sampai jumpa lagi",
+        "Selamat Jalan"
+      ],
+      "responses": [
+        "Sampai jumpa lagi, terima kasih telah berkunjung",
+        "Semoga harimu menyenangkan",
+        "Dada! Sampai jumpa lain waktu."
+      ]
+    },
+    {
+      "tag": "terima kasih",
+      "patterns": [
+        "Terima kasih",
+        "Itu sangat membantu",
+        "Terima kasih banyak!"
+      ],
+      "responses": [
+        "Senang bisa membantu!",
+        "Kapanpun!",
+        "Dengan senang hati"
+      ]
+    },
+    {
+      "tag": "info anggota",
+      "patterns": [
+        "bayu",
+        "ramdon"
+      ],
+      "responses": [
+        "nama lengkap saya adalah Saksono Bayu Ajie Sumantri dengan nim 19098001 dari kelas 6D",
+        "nama lengkap saya adalah Ramdon Baehaki Nur Faiz dengan nim 19090125 dari kelas 6D"
+      ]
+    },
+    {
+      "tag": "comedy",
+      "patterns": [
+        "apa rekomendasi film komedi?"
+      ],
+      "responses": [
+        "jumanji"
+      ]
+    },
+    {
+      "tag": "horror",
+      "patterns": [
+        "apa rekomendasi film horor"
+      ],
+      "responses": [
+        "insidious, conjuring, it"
+      ]
+    },
+    {
+      "tag": "action",
+      "patterns": [
+        "apa rekomendasi film action?"
+      ],
+      "responses": [
+        "Captain Marvel"
+      ]
+    }
+  ]
+}
